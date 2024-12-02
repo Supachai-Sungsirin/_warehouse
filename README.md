@@ -18,3 +18,16 @@ View my web page, go to [https://supachai-sungsirin.github.io/_warehouse](https:
 - **การจัดการผู้ใช้และสิทธิ์**
   - ระบบล็อกอินแบบหลายระดับ
   - กำหนดสิทธิ์การเข้าถึงตามตำแหน่งงาน
+
+## ✨ วิธีเข้าใช้งานแต่ละRole
+- **Superadmin**
+  - Username : superadmin
+  - Password : 123
+
+- **Admin**
+  - Username : admin
+  - Password : 123
+
+- **User**
+  - Username : user
+  - Password : 123
